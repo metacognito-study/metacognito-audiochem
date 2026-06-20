@@ -38,6 +38,9 @@
   "203": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/203.mp3",
   "204": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/204.mp3",
   "205": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/205.mp3",
+  "207": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/207.mp3",
+  "208": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/208.mp3",
+  "209": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/209.mp3",
   "267": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/267.mp3",
   "268": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/268.mp3",
   "269": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/269.mp3",
@@ -61,6 +64,10 @@
   "293": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/293.mp3",
   "294": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/294.mp3",
   "295": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/295.mp3",
+  "296": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/296.mp3",
+  "297": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/297.mp3",
+  "298": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/298.mp3",
+  "300": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/300.mp3",
   "780": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/780.mp3",
   "781": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/781.mp3",
   "782": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/782.mp3",
@@ -81,6 +88,10 @@
   "799": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/799.mp3",
   "800": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/800.mp3",
   "802": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/802.mp3",
+  "803": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/803.mp3",
+  "804": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/804.mp3",
+  "806": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/806.mp3",
+  "807": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/807.mp3",
   "1119": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1119.mp3",
   "1120": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1120.mp3",
   "1121": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1121.mp3",
@@ -89,7 +100,10 @@
   "1125": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1125.mp3",
   "1126": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1126.mp3",
   "1127": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1127.mp3",
-  "1128": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1128.mp3"
+  "1128": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1128.mp3",
+  "1130": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1130.mp3",
+  "1131": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1131.mp3",
+  "1132": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1132.mp3"
  },
  "titles": {
   "613": "Atomic radius across a period",
@@ -129,6 +143,9 @@
   "203": "draw the structure of an ionic crystal",
   "204": "explain how the structure of a molecular covalent substance differs from that of an ionic compound",
   "205": "identify which attractive forces are present in a substance based on its name or formula",
+  "207": "choose the cation-to-anion ratio that makes the compound neutral",
+  "208": "work out the charge of a Group 1, 2, or 13 metal cation from its place in the periodic table",
+  "209": "work out the charge of a Group 15, 16, or 17 nonmetal anion from its place in the periodic table",
   "267": "explain how a mass spectrometer is used to find an element's average atomic mass",
   "268": "draw and label the x and y axes of a mass spectrum",
   "269": "define what an isotope's relative (percentage) abundance means",
@@ -152,6 +169,10 @@
   "293": "calculate the mass of hydrogen from the amount of H₂O produced in combustion analysis",
   "294": "calculate the mass of nitrogen from nitrogen-containing products such as NH₃ or NO₂",
   "295": "calculate the mass of oxygen in a compound by mass difference",
+  "296": "determine an empirical formula from combustion-analysis data",
+  "297": "work out a molecular formula when given a molar mass and an empirical formula",
+  "298": "determine the atomic mass of an element from combining-mass (mass-ratio) data and the known formula of its compound",
+  "300": "explain how every chemical reaction obeys the Law of Conservation of Mass, with reference to the change in mass",
   "780": "predict and justify the relative size of a neutral atom and its cation",
   "781": "predict and justify the relative size of a neutral atom and its anion",
   "782": "predict and justify the relative sizes of isoelectronic species",
@@ -172,6 +193,10 @@
   "799": "explain the relative strengths of attractive and repulsive forces at different points when given an energy-vs-internuclear-distance graph",
   "800": "calculate a reaction's enthalpy (ΔHrxn) from average bond energies, or find an unknown bond energy when ΔHrxn and the other bond energies are given",
   "802": "predict and justify the relative bond lengths and bond energies of bonds to the same atom across a period",
+  "803": "predict and justify the relative bond lengths and bond energies of bonds to the same atom down a group",
+  "804": "predict and justify how bond order affects bond length and bond energy",
+  "806": "draw the Lewis structure of a molecule or ion with one central atom",
+  "807": "determine the molecular shape of a one-central-atom species from its electron domains and bonding/nonbonding pairs using VSEPR",
   "1119": "explain the establishment of the state of chemical equilibrium using the forward and backward rates",
   "1120": "explain the establishment of the state of chemical equilibrium using the concentration (or partial pressures) of reactants and products",
   "1121": "explain the establishment of chemical equilibrium when given a concentration-time graph (or pressure-time graph) for a reaction",
@@ -180,7 +205,10 @@
   "1125": "explain how liquid water could have a concentration value if the solvent is non-aqueous",
   "1126": "write an equilibrium expression, K (Kc or Kp), for a given chemical reaction",
   "1127": "write equilibrium expressions for reactions involving gaseous and/or aqueous species",
-  "1128": "write equilibrium expressions for reactions involving heterogeneous states"
+  "1128": "write equilibrium expressions for reactions involving heterogeneous states",
+  "1130": "write equilibrium expressions for reactions involving gaseous species",
+  "1131": "write equilibrium expressions when the chemical equation is reversed",
+  "1132": "write equilibrium expressions when the chemical equation is multiplied by a factor"
  },
  "cards": {
   "atomic_radius_across_period": "atomic_radius_across_period.m4a",
@@ -190,5 +218,5 @@
   "define_zeff_protons_shielding": "define_zeff_protons_shielding.m4a"
  },
  "_generated": "chem card-audio campaign",
- "_count": 89
+ "_count": 103
 }
