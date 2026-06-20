@@ -52,6 +52,8 @@
   "219": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/219.mp3",
   "220": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/220.mp3",
   "221": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/221.mp3",
+  "222": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/222.mp3",
+  "223": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/223.mp3",
   "267": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/267.mp3",
   "268": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/268.mp3",
   "269": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/269.mp3",
@@ -87,6 +89,9 @@
   "307": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/307.mp3",
   "308": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/308.mp3",
   "310": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/310.mp3",
+  "311": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/311.mp3",
+  "312": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/312.mp3",
+  "313": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/313.mp3",
   "780": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/780.mp3",
   "781": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/781.mp3",
   "782": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/782.mp3",
@@ -121,6 +126,8 @@
   "817": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/817.mp3",
   "818": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/818.mp3",
   "819": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/819.mp3",
+  "821": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/821.mp3",
+  "822": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/822.mp3",
   "1119": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1119.mp3",
   "1120": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1120.mp3",
   "1121": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1121.mp3",
@@ -140,7 +147,9 @@
   "1138": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1138.mp3",
   "1140": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1140.mp3",
   "1141": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1141.mp3",
-  "1142": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1142.mp3"
+  "1142": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1142.mp3",
+  "1143": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1143.mp3",
+  "1144": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1144.mp3"
  },
  "titles": {
   "613": "Atomic radius across a period",
@@ -194,6 +203,8 @@
   "219": "define what a binary covalent compound is",
   "220": "list the first ten greek prefixes used in naming",
   "221": "apply the prefix naming pattern for binary covalent compounds",
+  "222": "work out the name of a binary covalent compound from its formula",
+  "223": "write the formula of a binary covalent compound from its name",
   "267": "explain how a mass spectrometer is used to find an element's average atomic mass",
   "268": "draw and label the x and y axes of a mass spectrum",
   "269": "define what an isotope's relative (percentage) abundance means",
@@ -229,6 +240,9 @@
   "307": "determine the limiting and excess reactants by comparing moles of reactant divided by coefficients",
   "308": "determine the limiting and excess reactants by finding which reactant produces the least product",
   "310": "determine the limiting and excess reactants by comparing the amount available with the amount required",
+  "311": "calculate how much product forms from the limiting reactant",
+  "312": "calculate how much of the excess reactant is used up",
+  "313": "calculate how much excess reactant is left over",
   "780": "predict and justify the relative size of a neutral atom and its cation",
   "781": "predict and justify the relative size of a neutral atom and its anion",
   "782": "predict and justify the relative sizes of isoelectronic species",
@@ -263,6 +277,8 @@
   "817": "draw the resonance hybrid of a species with delocalized electrons",
   "818": "determine the bond order in a resonance structure",
   "819": "justify why a resonance hybrid's bonds have equal lengths and energies using electron delocalization",
+  "821": "complete a Lewis structure for a molecule with two or more central atoms from its skeletal framework",
+  "822": "determine the local molecular shape around each central atom in a molecule with two or more central atoms",
   "1119": "explain the establishment of the state of chemical equilibrium using the forward and backward rates",
   "1120": "explain the establishment of the state of chemical equilibrium using the concentration (or partial pressures) of reactants and products",
   "1121": "explain the establishment of chemical equilibrium when given a concentration-time graph (or pressure-time graph) for a reaction",
@@ -282,7 +298,9 @@
   "1138": "predict whether a reaction is reactant-favoured or product-favoured based on the value of the equilibrium constant",
   "1140": "calculate the value of the reaction quotient, Q from the given initial concentrations or partial pressures",
   "1141": "predict the direction of equilibrium shift using Q and K",
-  "1142": "solve aqueous or gaseous equilibrium problems using ICE tables when K and initial or equilibrium amounts are given"
+  "1142": "solve aqueous or gaseous equilibrium problems using ICE tables when K and initial or equilibrium amounts are given",
+  "1143": "solve gas equilibrium problems using ICE tables with Kp and partial pressures",
+  "1144": "perform equilibrium calculations using an ICE table"
  },
  "cards": {
   "atomic_radius_across_period": "atomic_radius_across_period.m4a",
@@ -292,5 +310,5 @@
   "define_zeff_protons_shielding": "define_zeff_protons_shielding.m4a"
  },
  "_generated": "chem card-audio campaign",
- "_count": 140
+ "_count": 149
 }
