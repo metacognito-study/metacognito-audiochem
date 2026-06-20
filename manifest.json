@@ -1,0 +1,40 @@
+{
+ "base": "",
+ "byRow": {
+  "613": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audio@main/cards/atomic_radius_across_period.m4a",
+  "614": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audio@main/cards/atomic_radius_down_group.m4a",
+  "606": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audio@main/cards/coulomb_force_zeff_distance.m4a",
+  "607": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audio@main/cards/define_zeff_protons_shielding.m4a",
+  "7": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/7.mp3",
+  "9": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/9.mp3",
+  "11": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/11.mp3",
+  "12": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/12.mp3",
+  "14": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/14.mp3",
+  "16": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/16.mp3",
+  "20": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/20.mp3",
+  "21": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/21.mp3"
+ },
+ "titles": {
+  "613": "Atomic radius across a period",
+  "614": "Atomic radius down a group",
+  "606": "Force ↔ effective nuclear charge ↔ distance",
+  "607": "Define effective nuclear charge",
+  "7": "give three real-world uses of chemistry",
+  "9": "recall the meaning of each investigation term",
+  "11": "explain what happens at each stage of a scientific investigation",
+  "12": "apply investigative reasoning to a real-world problem scenario",
+  "14": "explain how a qualitative observation differs from a quantitative one, giving an example of each",
+  "16": "identify the two parts that make up any measurement",
+  "20": "define exact numbers and give two examples",
+  "21": "identify whether a number is exact from its context"
+ },
+ "cards": {
+  "atomic_radius_across_period": "atomic_radius_across_period.m4a",
+  "atomic_radius_down_group": "atomic_radius_down_group.m4a",
+  "ch7_coulomb_foundations": "ch7_coulomb_foundations.m4a",
+  "coulomb_force_zeff_distance": "coulomb_force_zeff_distance.m4a",
+  "define_zeff_protons_shielding": "define_zeff_protons_shielding.m4a"
+ },
+ "_generated": "chem card-audio campaign",
+ "_count": 12
+}
