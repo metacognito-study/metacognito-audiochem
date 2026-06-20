@@ -44,6 +44,10 @@
   "210": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/210.mp3",
   "211": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/211.mp3",
   "212": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/212.mp3",
+  "213": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/213.mp3",
+  "214": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/214.mp3",
+  "215": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/215.mp3",
+  "216": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/216.mp3",
   "267": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/267.mp3",
   "268": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/268.mp3",
   "269": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/269.mp3",
@@ -73,6 +77,9 @@
   "300": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/300.mp3",
   "301": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/301.mp3",
   "302": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/302.mp3",
+  "303": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/303.mp3",
+  "305": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/305.mp3",
+  "306": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/306.mp3",
   "780": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/780.mp3",
   "781": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/781.mp3",
   "782": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/782.mp3",
@@ -100,6 +107,9 @@
   "808": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/808.mp3",
   "809": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/809.mp3",
   "811": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/811.mp3",
+  "812": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/812.mp3",
+  "813": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/813.mp3",
+  "815": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/815.mp3",
   "1119": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1119.mp3",
   "1120": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1120.mp3",
   "1121": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1121.mp3",
@@ -114,7 +124,10 @@
   "1132": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1132.mp3",
   "1133": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1133.mp3",
   "1135": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1135.mp3",
-  "1136": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1136.mp3"
+  "1136": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1136.mp3",
+  "1137": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1137.mp3",
+  "1138": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1138.mp3",
+  "1140": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1140.mp3"
  },
  "titles": {
   "613": "Atomic radius across a period",
@@ -160,6 +173,10 @@
   "210": "recall the roman numerals I to VIII",
   "211": "use roman numerals to show the charge when a transition metal can form more than one ion",
   "212": "identify the cation and the anion in an ionic formula",
+  "213": "name a monatomic metal cation",
+  "214": "name a monatomic nonmetal anion",
+  "215": "recall the names and formulas of the four most common polyatomic anions",
+  "216": "build the formula of an ionic compound from a given cation and anion",
   "267": "explain how a mass spectrometer is used to find an element's average atomic mass",
   "268": "draw and label the x and y axes of a mass spectrum",
   "269": "define what an isotope's relative (percentage) abundance means",
@@ -189,6 +206,9 @@
   "300": "explain how every chemical reaction obeys the Law of Conservation of Mass, with reference to the change in mass",
   "301": "describe the 6 main reaction types, with an example equation for each",
   "302": "balance a chemical equation so the coefficients are the smallest whole numbers possible",
+  "303": "write a balanced chemical equation to represent a given particle diagram",
+  "305": "calculate how much of one reactant is needed to react with a known amount of another reactant",
+  "306": "calculate the amount of product expected from a known amount of reactant, assuming 100% yield",
   "780": "predict and justify the relative size of a neutral atom and its cation",
   "781": "predict and justify the relative size of a neutral atom and its anion",
   "782": "predict and justify the relative sizes of isoelectronic species",
@@ -216,6 +236,9 @@
   "808": "determine the molecular polarity of a one-central-atom species from its bond dipoles and shape",
   "809": "identify the hybridization of the central atom (up to 4 electron domains)",
   "811": "identify the number of sigma and pi bonds in a one-central-atom molecule",
+  "812": "state the approximate bond angles of a one-central-atom molecule from its geometry",
+  "813": "explain why lone pairs make bond angles smaller than the ideal VSEPR value",
+  "815": "calculate the formal charge of each atom in a Lewis structure",
   "1119": "explain the establishment of the state of chemical equilibrium using the forward and backward rates",
   "1120": "explain the establishment of the state of chemical equilibrium using the concentration (or partial pressures) of reactants and products",
   "1121": "explain the establishment of chemical equilibrium when given a concentration-time graph (or pressure-time graph) for a reaction",
@@ -230,7 +253,10 @@
   "1132": "write equilibrium expressions when the chemical equation is multiplied by a factor",
   "1133": "write equilibrium expressions when several chemical equations are added",
   "1135": "calculate the new equilibrium constant when the chemical equation is reversed",
-  "1136": "calculate the new equilibrium constant when the chemical equation is multiplied by a factor"
+  "1136": "calculate the new equilibrium constant when the chemical equation is multiplied by a factor",
+  "1137": "calculate the new equilibrium constant when several chemical equations are added",
+  "1138": "predict whether a reaction is reactant-favoured or product-favoured based on the value of the equilibrium constant",
+  "1140": "calculate the value of the reaction quotient, Q from the given initial concentrations or partial pressures"
  },
  "cards": {
   "atomic_radius_across_period": "atomic_radius_across_period.m4a",
@@ -240,5 +266,5 @@
   "define_zeff_protons_shielding": "define_zeff_protons_shielding.m4a"
  },
  "_generated": "chem card-audio campaign",
- "_count": 114
+ "_count": 127
 }
