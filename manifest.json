@@ -12,7 +12,28 @@
   "14": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/14.mp3",
   "16": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/16.mp3",
   "20": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/20.mp3",
-  "21": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/21.mp3"
+  "21": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/21.mp3",
+  "165": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/165.mp3",
+  "166": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/166.mp3",
+  "172": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/172.mp3",
+  "173": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/173.mp3",
+  "174": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/174.mp3",
+  "175": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/175.mp3",
+  "176": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/176.mp3",
+  "178": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/178.mp3",
+  "179": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/179.mp3",
+  "267": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/267.mp3",
+  "268": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/268.mp3",
+  "269": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/269.mp3",
+  "270": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/270.mp3",
+  "271": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/271.mp3",
+  "272": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/272.mp3",
+  "273": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/273.mp3",
+  "274": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/274.mp3",
+  "780": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/780.mp3",
+  "781": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/781.mp3",
+  "782": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/782.mp3",
+  "783": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/783.mp3"
  },
  "titles": {
   "613": "Atomic radius across a period",
@@ -26,7 +47,28 @@
   "14": "explain how a qualitative observation differs from a quantitative one, giving an example of each",
   "16": "identify the two parts that make up any measurement",
   "20": "define exact numbers and give two examples",
-  "21": "identify whether a number is exact from its context"
+  "21": "identify whether a number is exact from its context",
+  "165": "name the main people and models in the history of atomic structure",
+  "166": "state 3 main postulates of Dalton’s atomic theory",
+  "172": "identify the charge carried by each subatomic particle",
+  "173": "identify where protons, neutrons, and electrons are found in the current atomic model",
+  "174": "define what an atom's atomic number and mass number each tell you",
+  "175": "write the standard symbol for an atom, showing its mass number, atomic number, and charge",
+  "176": "determine the numbers of protons, electrons, and neutrons in an atom from its symbol",
+  "178": "describe 3 ways the periodic table arranges elements",
+  "179": "find an element's period and group on the periodic table",
+  "267": "explain how a mass spectrometer is used to find an element's average atomic mass",
+  "268": "draw and label the x and y axes of a mass spectrum",
+  "269": "define what an isotope's relative (percentage) abundance means",
+  "270": "identify how many isotopes are present when looking at a mass spectrum",
+  "271": "identify the most abundant isotope when looking at a mass spectrum",
+  "272": "calculate each isotope's percentage abundance from relative-intensity data",
+  "273": "calculate an element's average atomic mass when given its mass-spectrum data",
+  "274": "identify an element by calculating or estimating its average atomic mass when given its mass spectrum",
+  "780": "predict and justify the relative size of a neutral atom and its cation",
+  "781": "predict and justify the relative size of a neutral atom and its anion",
+  "782": "predict and justify the relative sizes of isoelectronic species",
+  "783": "predict and justify the relative size of cations in the same group"
  },
  "cards": {
   "atomic_radius_across_period": "atomic_radius_across_period.m4a",
@@ -36,5 +78,5 @@
   "define_zeff_protons_shielding": "define_zeff_protons_shielding.m4a"
  },
  "_generated": "chem card-audio campaign",
- "_count": 12
+ "_count": 33
 }
