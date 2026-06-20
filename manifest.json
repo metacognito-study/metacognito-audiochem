@@ -36,6 +36,10 @@
   "44": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/44.mp3",
   "45": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/45.mp3",
   "46": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/46.mp3",
+  "47": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/47.mp3",
+  "48": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/48.mp3",
+  "49": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/49.mp3",
+  "50": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/50.mp3",
   "165": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/165.mp3",
   "166": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/166.mp3",
   "172": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/172.mp3",
@@ -186,6 +190,9 @@
   "374": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/374.mp3",
   "376": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/376.mp3",
   "377": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/377.mp3",
+  "378": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/378.mp3",
+  "380": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/380.mp3",
+  "381": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/381.mp3",
   "780": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/780.mp3",
   "781": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/781.mp3",
   "782": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/782.mp3",
@@ -307,6 +314,10 @@
   "44": "explain why scientists use SI units",
   "45": "identify the 7 base physical quantities and their SI units",
   "46": "identify common derived quantities and their units",
+  "47": "define what mass measures",
+  "48": "explain why mass and weight are not the same thing",
+  "49": "identify two everyday units used to measure mass",
+  "50": "identify which laboratory instrument measures mass",
   "165": "name the main people and models in the history of atomic structure",
   "166": "state 3 main postulates of Dalton’s atomic theory",
   "172": "identify the charge carried by each subatomic particle",
@@ -457,6 +468,9 @@
   "374": "recall which ions make a salt always soluble (the “always-soluble” rule)",
   "376": "apply solubility rules to predict whether a salt is soluble or insoluble and whether a precipitate will form when two solutions are mixed",
   "377": "draw particle diagrams of soluble salts dissolved in solution",
+  "378": "write a balanced formula equation for a precipitation reaction, showing the precipitate",
+  "380": "write balanced net ionic equations for precipitation and for gas-forming double-replacement reactions, identifying the precipitate or gas formed",
+  "381": "identify the spectator ions in a reaction",
   "780": "predict and justify the relative size of a neutral atom and its cation",
   "781": "predict and justify the relative size of a neutral atom and its anion",
   "782": "predict and justify the relative sizes of isoelectronic species",
@@ -550,5 +564,5 @@
   "define_zeff_protons_shielding": "define_zeff_protons_shielding.m4a"
  },
  "_generated": "chem card-audio campaign",
- "_count": 269
+ "_count": 276
 }
