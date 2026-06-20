@@ -71,6 +71,7 @@
   "241": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/241.mp3",
   "242": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/242.mp3",
   "244": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/244.mp3",
+  "245": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/245.mp3",
   "267": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/267.mp3",
   "268": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/268.mp3",
   "269": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/269.mp3",
@@ -125,6 +126,7 @@
   "331": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/331.mp3",
   "333": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/333.mp3",
   "334": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/334.mp3",
+  "335": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/335.mp3",
   "780": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/780.mp3",
   "781": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/781.mp3",
   "782": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/782.mp3",
@@ -206,7 +208,9 @@
   "1157": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1157.mp3",
   "1158": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1158.mp3",
   "1159": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1159.mp3",
-  "1161": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1161.mp3"
+  "1161": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1161.mp3",
+  "1162": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1162.mp3",
+  "1163": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1163.mp3"
  },
  "titles": {
   "613": "Atomic radius across a period",
@@ -279,6 +283,7 @@
   "241": "work out the formula of a hydrate from its name",
   "242": "name a hydrate from its formula",
   "244": "state what the Law of Conservation of Mass means",
+  "245": "write the Law of Definite Composition, including the phrase 'mass-ratio'",
   "267": "explain how a mass spectrometer is used to find an element's average atomic mass",
   "268": "draw and label the x and y axes of a mass spectrum",
   "269": "define what an isotope's relative (percentage) abundance means",
@@ -333,6 +338,7 @@
   "331": "draw particle diagrams to solve a stoichiometry problem",
   "333": "draw product particles after 100% reaction completion",
   "334": "draw the product and leftover reactant particles after a reaction that is less than 100% complete",
+  "335": "draw the possible starting particles when given a completed reaction diagram",
   "780": "predict and justify the relative size of a neutral atom and its cation",
   "781": "predict and justify the relative size of a neutral atom and its anion",
   "782": "predict and justify the relative sizes of isoelectronic species",
@@ -414,7 +420,9 @@
   "1157": "calculate the equilibrium constant, K, when given a concentration-time graph for both reactants and products",
   "1158": "determine the coefficients of a balanced reaction when given a concentration-time graph for both reactants and products",
   "1159": "compare the relative rates of the forward and backward reactions at various points when given a concentration-time graph for both reactants and products",
-  "1161": "draw the concentration-time graph that matches given initial and/or equilibrium concentrations of reactants and products"
+  "1161": "draw the concentration-time graph that matches given initial and/or equilibrium concentrations of reactants and products",
+  "1162": "describe what a pressure-time graph shows for both reactants and products",
+  "1163": "identify the time at which equilibrium is reached when given a pressure-time graph for both reactants and products"
  },
  "cards": {
   "atomic_radius_across_period": "atomic_radius_across_period.m4a",
@@ -424,5 +432,5 @@
   "define_zeff_protons_shielding": "define_zeff_protons_shielding.m4a"
  },
  "_generated": "chem card-audio campaign",
- "_count": 206
+ "_count": 210
 }
