@@ -1119,6 +1119,18 @@
   "1874": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1874.mp3",
   "1875": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1875.mp3"
  },
+ "byRowAr": {
+  "7": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3_ar/7.mp3",
+  "9": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3_ar/9.mp3",
+  "10": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3_ar/10.mp3",
+  "11": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3_ar/11.mp3",
+  "12": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3_ar/12.mp3",
+  "14": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3_ar/14.mp3",
+  "16": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3_ar/16.mp3",
+  "18": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3_ar/18.mp3",
+  "20": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3_ar/20.mp3",
+  "21": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3_ar/21.mp3"
+ },
  "titles": {
   "613": "Atomic radius across a period",
   "614": "Atomic radius down a group",
@@ -2246,5 +2258,6 @@
   "define_zeff_protons_shielding": "define_zeff_protons_shielding.m4a"
  },
  "_generated": "chem card-audio campaign",
- "_count": 1117
+ "_count": 1117,
+ "_count_ar": 10
 }
