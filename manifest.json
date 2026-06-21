@@ -598,6 +598,9 @@
   "954": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/954.mp3",
   "955": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/955.mp3",
   "956": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/956.mp3",
+  "957": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/957.mp3",
+  "958": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/958.mp3",
+  "960": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/960.mp3",
   "1068": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1068.mp3",
   "1069": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1069.mp3",
   "1070": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1070.mp3",
@@ -618,6 +621,9 @@
   "1088": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1088.mp3",
   "1089": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1089.mp3",
   "1090": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1090.mp3",
+  "1091": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1091.mp3",
+  "1093": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1093.mp3",
+  "1094": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1094.mp3",
   "1119": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1119.mp3",
   "1120": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1120.mp3",
   "1121": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1121.mp3",
@@ -660,6 +666,8 @@
   "1165": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1165.mp3",
   "1166": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1166.mp3",
   "1167": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1167.mp3",
+  "1168": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1168.mp3",
+  "1169": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1169.mp3",
   "1737": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1737.mp3",
   "1738": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1738.mp3",
   "1739": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1739.mp3",
@@ -672,7 +680,10 @@
   "1751": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1751.mp3",
   "1752": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1752.mp3",
   "1754": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1754.mp3",
-  "1755": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1755.mp3"
+  "1755": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1755.mp3",
+  "1756": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1756.mp3",
+  "1757": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1757.mp3",
+  "1758": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1758.mp3"
  },
  "titles": {
   "613": "Atomic radius across a period",
@@ -1272,6 +1283,9 @@
   "954": "compare ionic-bonding strength using lattice energies for different set of ionic charges between ionic compounds",
   "955": "explain the conductivity of ionic compounds in the molten and aqueous state and its nonconductivity in the solid state using the presence of free ions",
   "956": "explain why ionic compounds are hard but brittle using the organization of ions in the crystal lattice and the force of attraction between ions",
+  "957": "explain the relatively high melting points of ionic solids",
+  "958": "explain common examples of ionic solids",
+  "960": "draw a diagram showing the positive ions in a sea of delocalized electrons",
   "1068": "identify key solution terms",
   "1069": "explain the process of dissolution",
   "1070": "explain ΔH₁ in the solution-formation model as the endothermic separation of solute particles",
@@ -1292,6 +1306,9 @@
   "1088": "explain the effect of temperature on the solubility of a gas in a liquid",
   "1089": "explain the effect of temperature on the solubility of a solid in a liquid for both exothermic and endothermic dissolutions",
   "1090": "explain the difference between unsaturated, saturated, and supersaturated solutions and each other",
+  "1091": "describe what a solubility curve shows",
+  "1093": "use a solubility curve to identify solutes that increase solubility when temperature is increased or decreased",
+  "1094": "use a solubility curve to identify whether the dissolution of the solute is endothermic or exothermic",
   "1119": "explain the establishment of the state of chemical equilibrium using the forward and backward rates",
   "1120": "explain the establishment of the state of chemical equilibrium using the concentration (or partial pressures) of reactants and products",
   "1121": "explain the establishment of chemical equilibrium when given a concentration-time graph (or pressure-time graph) for a reaction",
@@ -1334,6 +1351,8 @@
   "1165": "calculate the equilibrium constant, K, when given a pressure-time graph for both reactants and products",
   "1166": "determine the coefficients of a balanced reaction when given a pressure-time graph for both reactants and products",
   "1167": "compare the relative rates of the forward and backward reactions at various points when given a pressure-time graph for both reactants and products",
+  "1168": "draw the pressure-time graph that matches given initial and/or equilibrium partial pressures of reactants and products",
+  "1169": "describe the Le Châtelier’s principle",
   "1737": "define kinetics of a chemical reaction as the rate by which the reactants are converted to products per unit time",
   "1738": "define the rate of appearance or disappearance of a substance as the change in its amount per unit time",
   "1739": "calculate rates of appearance and disappearance from concentration changes over time",
@@ -1346,7 +1365,10 @@
   "1751": "compare reactant-disappearance and product-appearance rates when given a concentration-time graph",
   "1752": "determine overall reaction rate from changes in concentration while accounting for stoichiometric coefficients",
   "1754": "explain the conditions a collision must meet for a reaction to occur (collision theory)",
-  "1755": "explain how collision frequency affects whether a reaction occurs"
+  "1755": "explain how collision frequency affects whether a reaction occurs",
+  "1756": "explain why a higher collision frequency gives a faster reaction",
+  "1757": "explain why correct molecular orientation is needed for a reaction to occur",
+  "1758": "explain why colliding molecules need energy at least equal to the activation energy"
  },
  "cards": {
   "atomic_radius_across_period": "atomic_radius_across_period.m4a",
@@ -1356,5 +1378,5 @@
   "define_zeff_protons_shielding": "define_zeff_protons_shielding.m4a"
  },
  "_generated": "chem card-audio campaign",
- "_count": 672
+ "_count": 683
 }
