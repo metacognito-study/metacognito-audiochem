@@ -638,6 +638,9 @@
   "999": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/999.mp3",
   "1000": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1000.mp3",
   "1001": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1001.mp3",
+  "1003": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1003.mp3",
+  "1004": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1004.mp3",
+  "1005": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1005.mp3",
   "1068": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1068.mp3",
   "1069": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1069.mp3",
   "1070": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1070.mp3",
@@ -766,6 +769,10 @@
   "1245": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1245.mp3",
   "1246": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1246.mp3",
   "1247": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1247.mp3",
+  "1248": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1248.mp3",
+  "1250": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1250.mp3",
+  "1251": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1251.mp3",
+  "1252": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1252.mp3",
   "1369": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1369.mp3",
   "1370": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1370.mp3",
   "1371": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1371.mp3",
@@ -774,6 +781,10 @@
   "1380": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1380.mp3",
   "1381": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1381.mp3",
   "1382": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1382.mp3",
+  "1385": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1385.mp3",
+  "1389": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1389.mp3",
+  "1390": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1390.mp3",
+  "1391": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1391.mp3",
   "1737": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1737.mp3",
   "1738": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1738.mp3",
   "1739": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1739.mp3",
@@ -834,7 +845,11 @@
   "1807": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1807.mp3",
   "1808": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1808.mp3",
   "1810": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1810.mp3",
-  "1811": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1811.mp3"
+  "1811": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1811.mp3",
+  "1812": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1812.mp3",
+  "1813": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1813.mp3",
+  "1814": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1814.mp3",
+  "1816": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1816.mp3"
  },
  "titles": {
   "613": "Atomic radius across a period",
@@ -1474,6 +1489,9 @@
   "999": "describe what a vapor-pressure vs. temperature curve shows",
   "1000": "use vapor-pressure curves to determine the vapor pressure of a substance at a particular temperature",
   "1001": "use vapor-pressure curves to determine the boiling temperature of a substance at a particular atmospheric pressure",
+  "1003": "determine which substance has the strongest or weakest intermolecular forces, or the highest or lowest boiling temperature, when given vapor-pressure curves for different substances",
+  "1004": "identify which phase transitions are exothermic and which are endothermic",
+  "1005": "define heat or enthalpy of fusion",
   "1068": "identify key solution terms",
   "1069": "explain the process of dissolution",
   "1070": "explain ΔH₁ in the solution-formation model as the endothermic separation of solute particles",
@@ -1602,6 +1620,10 @@
   "1245": "calculate the pOH of a solution given the pH, [H₃O⁺], or [OH⁻]",
   "1246": "calculate the [H₃O⁺] of a solution given the pOH, pH, or [OH⁻]",
   "1247": "calculate the [OH⁻] of a solution given the pH, pOH, or [H₃O⁺]",
+  "1248": "explain how temperature can affect the value of Kw using Le Châtelier’s principle",
+  "1250": "identify a solution as acidic, basic, or neutral based on the value of the pH at temperatures other than 25°C",
+  "1251": "draw acid dissociation reactions for a weak acid",
+  "1252": "write the equilibrium expression for the acid dissociation",
   "1369": "explain the effect of the presence of a conjugate acid in the dissociation of a weak base using the shift in the equilibrium position",
   "1370": "calculate the pH of a solution containing a weak acid and a conjugate base using the Henderson-Hasselbalch equation",
   "1371": "calculate the pH of a solution containing a weak base and a conjugate acid using the Henderson-Hasselbalch equation",
@@ -1610,6 +1632,10 @@
   "1380": "write the stoichiometric equation when a strong acid is added to the buffer system",
   "1381": "write the stoichiometric equation when a strong base is added to the buffer system",
   "1382": "calculate the pH of a given buffer system using the Henderson-Hasselbalch equation",
+  "1385": "explain how to prepare a buffer with a desired pH from suitable weak acid/base components",
+  "1389": "explain how to prepare a buffer from two salts that contain the conjugate acid-base pairs",
+  "1390": "explain how to prepare a buffer by reacting a weak acid with a limiting amount of strong base",
+  "1391": "explain how to prepare a buffer by reacting a weak base with a limiting amount of strong acid",
   "1737": "define kinetics of a chemical reaction as the rate by which the reactants are converted to products per unit time",
   "1738": "define the rate of appearance or disappearance of a substance as the change in its amount per unit time",
   "1739": "calculate rates of appearance and disappearance from concentration changes over time",
@@ -1670,7 +1696,11 @@
   "1807": "determine rate law from tabulated experimental data",
   "1808": "decide when to use the method of initial rates or integrated rate laws to determine reaction order",
   "1810": "determine rate law based on graphs",
-  "1811": "identify a zero-order reaction from a linear [A] vs. time plot with negative slope"
+  "1811": "identify a zero-order reaction from a linear [A] vs. time plot with negative slope",
+  "1812": "identify a first-order reaction from a linear ln[A] vs. time plot with negative slope",
+  "1813": "identify a second-order reaction from a linear 1/[A] vs. time plot with positive slope and changing half-life",
+  "1814": "justify the determination of the rate law either through logical description of the data analysis or a mathematical calculation",
+  "1816": "chemical reactions can occur through elementary steps called a reaction mechanism"
  },
  "cards": {
   "atomic_radius_across_period": "atomic_radius_across_period.m4a",
@@ -1680,5 +1710,5 @@
   "define_zeff_protons_shielding": "define_zeff_protons_shielding.m4a"
  },
  "_generated": "chem card-audio campaign",
- "_count": 834
+ "_count": 849
 }
