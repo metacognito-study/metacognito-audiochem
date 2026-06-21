@@ -653,6 +653,7 @@
   "1017": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1017.mp3",
   "1018": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1018.mp3",
   "1019": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1019.mp3",
+  "1020": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1020.mp3",
   "1068": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1068.mp3",
   "1069": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1069.mp3",
   "1070": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1070.mp3",
@@ -797,6 +798,9 @@
   "1263": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1263.mp3",
   "1264": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1264.mp3",
   "1265": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1265.mp3",
+  "1267": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1267.mp3",
+  "1268": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1268.mp3",
+  "1269": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1269.mp3",
   "1369": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1369.mp3",
   "1370": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1370.mp3",
   "1371": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1371.mp3",
@@ -824,6 +828,10 @@
   "1406": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1406.mp3",
   "1407": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1407.mp3",
   "1408": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1408.mp3",
+  "1409": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1409.mp3",
+  "1410": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1410.mp3",
+  "1411": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1411.mp3",
+  "1488": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1488.mp3",
   "1737": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1737.mp3",
   "1738": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1738.mp3",
   "1739": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1739.mp3",
@@ -904,7 +912,10 @@
   "1831": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1831.mp3",
   "1832": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1832.mp3",
   "1833": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1833.mp3",
-  "1834": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1834.mp3"
+  "1834": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1834.mp3",
+  "1835": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1835.mp3",
+  "1836": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1836.mp3",
+  "1837": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1837.mp3"
  },
  "titles": {
   "613": "Atomic radius across a period",
@@ -1559,6 +1570,7 @@
   "1017": "use heating and cooling curves to identify the melting points and boiling points (heating curve)",
   "1018": "use heating and cooling curves to identify the freezing points and the condensation points (cooling curve)",
   "1019": "use heating and cooling curves to explain how the length of the horizontal lines in the curve represent the magnitude of the latent heat",
+  "1020": "use heating and cooling curves to explain how the strength of the intermolecular forces affects the length of the horizontal line",
   "1068": "identify key solution terms",
   "1069": "explain the process of dissolution",
   "1070": "explain ΔH₁ in the solution-formation model as the endothermic separation of solute particles",
@@ -1703,6 +1715,9 @@
   "1263": "write the equilibrium expression for the base dissociation",
   "1264": "explain what the value of the base dissociation constant, Kb represents",
   "1265": "determine the relative strength of a base from the value of its base dissociation constant, Kb",
+  "1267": "calculate the equilibrium concentration of products given the Kb and initial concentration of base",
+  "1268": "calculate the Kb given the equilibrium concentration of products and initial concentration of base",
+  "1269": "calculate the initial concentration of base given the Kb and the equilibrium concentration of products",
   "1369": "explain the effect of the presence of a conjugate acid in the dissociation of a weak base using the shift in the equilibrium position",
   "1370": "calculate the pH of a solution containing a weak acid and a conjugate base using the Henderson-Hasselbalch equation",
   "1371": "calculate the pH of a solution containing a weak base and a conjugate acid using the Henderson-Hasselbalch equation",
@@ -1730,6 +1745,10 @@
   "1406": "identify the major species between the initial point and the equivalence point of a strong acid-strong base titration",
   "1407": "identify the major species at the equivalence point of a strong acid-strong base titration",
   "1408": "identify major species after the equivalence point of a strong acid-strong base titration",
+  "1409": "identify the species that determines pH at each stage of a strong acid-strong base titration",
+  "1410": "draw particle diagrams for each stage of a strong acid-strong base titration",
+  "1411": "explain why the pH after the equivalence point is lower than expected when strong base is the titrant",
+  "1488": "define solubility",
   "1737": "define kinetics of a chemical reaction as the rate by which the reactants are converted to products per unit time",
   "1738": "define the rate of appearance or disappearance of a substance as the change in its amount per unit time",
   "1739": "calculate rates of appearance and disappearance from concentration changes over time",
@@ -1810,7 +1829,10 @@
   "1831": "a catalyst is consumed in one step of a mechanism and regenerated unchanged in a later step",
   "1832": "evaluate whether a proposed reaction mechanism is consistent with the overall reaction and rate law",
   "1833": "check whether the elementary steps add up to the overall reaction",
-  "1834": "check whether the experimental rate law matches the rate law of the slow step"
+  "1834": "check whether the experimental rate law matches the rate law of the slow step",
+  "1835": "use the pre-equilibrium approximation",
+  "1836": "explain why reaction intermediates cannot appear in the final rate law",
+  "1837": "use the pre-equilibrium approximation when the slow step contains an intermediate"
  },
  "cards": {
   "atomic_radius_across_period": "atomic_radius_across_period.m4a",
@@ -1820,5 +1842,5 @@
   "define_zeff_protons_shielding": "define_zeff_protons_shielding.m4a"
  },
  "_generated": "chem card-audio campaign",
- "_count": 904
+ "_count": 915
 }
