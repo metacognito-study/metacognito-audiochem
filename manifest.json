@@ -628,6 +628,10 @@
   "988": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/988.mp3",
   "989": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/989.mp3",
   "990": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/990.mp3",
+  "992": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/992.mp3",
+  "993": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/993.mp3",
+  "994": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/994.mp3",
+  "995": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/995.mp3",
   "1068": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1068.mp3",
   "1069": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1069.mp3",
   "1070": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1070.mp3",
@@ -747,6 +751,12 @@
   "1234": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1234.mp3",
   "1235": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1235.mp3",
   "1237": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1237.mp3",
+  "1238": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1238.mp3",
+  "1239": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1239.mp3",
+  "1240": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1240.mp3",
+  "1241": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1241.mp3",
+  "1369": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1369.mp3",
+  "1370": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1370.mp3",
   "1737": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1737.mp3",
   "1738": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1738.mp3",
   "1739": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1739.mp3",
@@ -795,7 +805,13 @@
   "1793": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1793.mp3",
   "1794": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1794.mp3",
   "1796": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1796.mp3",
-  "1797": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1797.mp3"
+  "1797": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1797.mp3",
+  "1798": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1798.mp3",
+  "1799": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1799.mp3",
+  "1801": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1801.mp3",
+  "1802": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1802.mp3",
+  "1803": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1803.mp3",
+  "1804": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1804.mp3"
  },
  "titles": {
   "613": "Atomic radius across a period",
@@ -1425,6 +1441,10 @@
   "988": "define vapor pressure",
   "989": "explain how equilibrium vapor pressure is achieved in a closed container",
   "990": "use the energy distribution graph to explain why evaporation occurs at any temperature",
+  "992": "justify the effect of the strength of the intermolecular forces in the liquid phase on the vapor pressure of a liquid",
+  "993": "justify the effect of temperature on the vapor pressure of a liquid",
+  "994": "justify the effect of the container volume or liquid surface area on the vapor pressure of a liquid",
+  "995": "justify how intermolecular-force strength affects the vapor pressure of a liquid when given an energy-distribution diagram",
   "1068": "identify key solution terms",
   "1069": "explain the process of dissolution",
   "1070": "explain ΔH₁ in the solution-formation model as the endothermic separation of solute particles",
@@ -1544,6 +1564,12 @@
   "1234": "identify the conjugate acid of a given base (conjugate acid-base pairs) from a given acid-base reaction",
   "1235": "draw the conjugate base or the conjugate acid of a given substance",
   "1237": "compare relative strengths of the acid and base with their conjugates in a given acid-base reaction",
+  "1238": "write the autoionization reaction of water",
+  "1239": "write the equilibrium expression for the autoionization of water, Kw",
+  "1240": "explain how a solution is identified as acidic, basic, or neutral based on the relative amounts of H₃O⁺ and OH⁻",
+  "1241": "explain how the pH/pOH scale is structured",
+  "1369": "explain the effect of the presence of a conjugate acid in the dissociation of a weak base using the shift in the equilibrium position",
+  "1370": "calculate the pH of a solution containing a weak acid and a conjugate base using the Henderson-Hasselbalch equation",
   "1737": "define kinetics of a chemical reaction as the rate by which the reactants are converted to products per unit time",
   "1738": "define the rate of appearance or disappearance of a substance as the change in its amount per unit time",
   "1739": "calculate rates of appearance and disappearance from concentration changes over time",
@@ -1592,7 +1618,13 @@
   "1793": "use the first-order integrated rate law, ln[A]t = -kt + ln[A]0",
   "1794": "use the second-order integrated rate law, 1/[A]t = kt + 1/[A]0",
   "1796": "describe half-life as the time required for reactant concentration to decrease by half",
-  "1797": "use linear plots and half-life patterns to explain the difference between zero-, first-, and second-order reactions"
+  "1797": "use linear plots and half-life patterns to explain the difference between zero-, first-, and second-order reactions",
+  "1798": "the rate constant, k, is a positive number",
+  "1799": "the half-life of a first-order reaction is constant, while half-life changes for zero- and second-order reactions",
+  "1801": "derive the half-life of a first-order reaction using integrated rate laws when given a concentration-time graph",
+  "1802": "calculate the amount of reactant present after time t using integrated rate laws",
+  "1803": "calculate the initial amount of reactant using integrated rate laws",
+  "1804": "calculate the amount of reactant consumed after time t using integrated rate laws"
  },
  "cards": {
   "atomic_radius_across_period": "atomic_radius_across_period.m4a",
@@ -1602,5 +1634,5 @@
   "define_zeff_protons_shielding": "define_zeff_protons_shielding.m4a"
  },
  "_generated": "chem card-audio campaign",
- "_count": 795
+ "_count": 811
 }
