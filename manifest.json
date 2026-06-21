@@ -601,6 +601,8 @@
   "957": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/957.mp3",
   "958": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/958.mp3",
   "960": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/960.mp3",
+  "961": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/961.mp3",
+  "962": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/962.mp3",
   "1068": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1068.mp3",
   "1069": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1069.mp3",
   "1070": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1070.mp3",
@@ -624,6 +626,8 @@
   "1091": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1091.mp3",
   "1093": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1093.mp3",
   "1094": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1094.mp3",
+  "1095": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1095.mp3",
+  "1096": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1096.mp3",
   "1119": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1119.mp3",
   "1120": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1120.mp3",
   "1121": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1121.mp3",
@@ -668,6 +672,8 @@
   "1167": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1167.mp3",
   "1168": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1168.mp3",
   "1169": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1169.mp3",
+  "1171": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1171.mp3",
+  "1172": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1172.mp3",
   "1737": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1737.mp3",
   "1738": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1738.mp3",
   "1739": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1739.mp3",
@@ -683,7 +689,10 @@
   "1755": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1755.mp3",
   "1756": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1756.mp3",
   "1757": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1757.mp3",
-  "1758": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1758.mp3"
+  "1758": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1758.mp3",
+  "1760": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1760.mp3",
+  "1761": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1761.mp3",
+  "1762": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1762.mp3"
  },
  "titles": {
   "613": "Atomic radius across a period",
@@ -1286,6 +1295,8 @@
   "957": "explain the relatively high melting points of ionic solids",
   "958": "explain common examples of ionic solids",
   "960": "draw a diagram showing the positive ions in a sea of delocalized electrons",
+  "961": "explain the bonding in metallic solids",
+  "962": "explain the thermal and electrical conductivity of metals using the presence of delocalized electrons",
   "1068": "identify key solution terms",
   "1069": "explain the process of dissolution",
   "1070": "explain ΔH₁ in the solution-formation model as the endothermic separation of solute particles",
@@ -1309,6 +1320,8 @@
   "1091": "describe what a solubility curve shows",
   "1093": "use a solubility curve to identify solutes that increase solubility when temperature is increased or decreased",
   "1094": "use a solubility curve to identify whether the dissolution of the solute is endothermic or exothermic",
+  "1095": "use a solubility curve to determine the solubility of a solute at a given temperature",
+  "1096": "use a solubility curve to predict if a given amounts of solute/solvent would result to an unsaturated, saturated, or saturated solution with undissolved solids",
   "1119": "explain the establishment of the state of chemical equilibrium using the forward and backward rates",
   "1120": "explain the establishment of the state of chemical equilibrium using the concentration (or partial pressures) of reactants and products",
   "1121": "explain the establishment of chemical equilibrium when given a concentration-time graph (or pressure-time graph) for a reaction",
@@ -1353,6 +1366,8 @@
   "1167": "compare the relative rates of the forward and backward reactions at various points when given a pressure-time graph for both reactants and products",
   "1168": "draw the pressure-time graph that matches given initial and/or equilibrium partial pressures of reactants and products",
   "1169": "describe the Le Châtelier’s principle",
+  "1171": "identify change in concentration of reactant or product as an equilibrium stressor",
+  "1172": "identify change in the partial pressures of reactant or product by changing the volume of the container as an equilibrium stressor",
   "1737": "define kinetics of a chemical reaction as the rate by which the reactants are converted to products per unit time",
   "1738": "define the rate of appearance or disappearance of a substance as the change in its amount per unit time",
   "1739": "calculate rates of appearance and disappearance from concentration changes over time",
@@ -1368,7 +1383,10 @@
   "1755": "explain how collision frequency affects whether a reaction occurs",
   "1756": "explain why a higher collision frequency gives a faster reaction",
   "1757": "explain why correct molecular orientation is needed for a reaction to occur",
-  "1758": "explain why colliding molecules need energy at least equal to the activation energy"
+  "1758": "explain why colliding molecules need energy at least equal to the activation energy",
+  "1760": "describe activation energy as the energy required for a reaction to proceed",
+  "1761": "explain why having more molecules with kinetic energy above the activation energy gives a faster reaction",
+  "1762": "list the factors that affect the reaction rate"
  },
  "cards": {
   "atomic_radius_across_period": "atomic_radius_across_period.m4a",
@@ -1378,5 +1396,5 @@
   "define_zeff_protons_shielding": "define_zeff_protons_shielding.m4a"
  },
  "_generated": "chem card-audio campaign",
- "_count": 683
+ "_count": 692
 }
