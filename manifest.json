@@ -612,6 +612,10 @@
   "969": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/969.mp3",
   "970": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/970.mp3",
   "971": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/971.mp3",
+  "972": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/972.mp3",
+  "973": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/973.mp3",
+  "974": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/974.mp3",
+  "976": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/976.mp3",
   "1068": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1068.mp3",
   "1069": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1069.mp3",
   "1070": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1070.mp3",
@@ -646,6 +650,7 @@
   "1105": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1105.mp3",
   "1106": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1106.mp3",
   "1107": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1107.mp3",
+  "1108": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1108.mp3",
   "1119": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1119.mp3",
   "1120": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1120.mp3",
   "1121": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1121.mp3",
@@ -700,6 +705,12 @@
   "1178": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1178.mp3",
   "1179": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1179.mp3",
   "1181": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1181.mp3",
+  "1182": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1182.mp3",
+  "1183": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1183.mp3",
+  "1184": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1184.mp3",
+  "1185": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1185.mp3",
+  "1218": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1218.mp3",
+  "1219": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1219.mp3",
   "1737": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1737.mp3",
   "1738": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1738.mp3",
   "1739": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1739.mp3",
@@ -729,7 +740,12 @@
   "1771": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1771.mp3",
   "1772": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1772.mp3",
   "1774": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1774.mp3",
-  "1775": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1775.mp3"
+  "1775": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1775.mp3",
+  "1776": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1776.mp3",
+  "1777": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1777.mp3",
+  "1778": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1778.mp3",
+  "1779": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1779.mp3",
+  "1780": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1780.mp3"
  },
  "titles": {
   "613": "Atomic radius across a period",
@@ -1343,6 +1359,10 @@
   "969": "describe interstitial alloys using relative atom sizes",
   "970": "draw particle diagrams for both substitutional and interstitial alloys showing the relative sizes of atoms that make them up",
   "971": "compare properties of substitutional alloys using density, strength, and ductility",
+  "972": "explain common examples of substitutional alloys",
+  "973": "compare properties of interstitial alloys using density, strength, and ductility",
+  "974": "explain common examples of interstitial alloys",
+  "976": "classify an alloy as substitutional or interstitial based on atomic-size or density data provided",
   "1068": "identify key solution terms",
   "1069": "explain the process of dissolution",
   "1070": "explain ΔH₁ in the solution-formation model as the endothermic separation of solute particles",
@@ -1377,6 +1397,7 @@
   "1105": "use a chromatogram, determine to the component that is most attracted to the mobile phase",
   "1106": "use a chromatogram, determine to the component that is most attracted to the stationary phase",
   "1107": "use a chromatogram, determine to the adjustment that must be made to a mixture of solvents to affect the separation of the components",
+  "1108": "identify the main factors that affect solubility",
   "1119": "explain the establishment of the state of chemical equilibrium using the forward and backward rates",
   "1120": "explain the establishment of the state of chemical equilibrium using the concentration (or partial pressures) of reactants and products",
   "1121": "explain the establishment of chemical equilibrium when given a concentration-time graph (or pressure-time graph) for a reaction",
@@ -1431,6 +1452,12 @@
   "1178": "justify equilibrium shifts when increase or decrease the temperature of an exothermic or an endothermic reaction",
   "1179": "justify equilibrium shifts when an inert gas is introduced in the gaseous mixture at equilibrium",
   "1181": "justify equilibrium shifts when the volume of the aqueous solution is changed by diluting a solution",
+  "1182": "calculate the new equilibrium concentrations/pressures after the system responded to a stressor",
+  "1183": "describe what a concentration/pressure-time graph that includes a stressor shows",
+  "1184": "identify the stressor depicted when given a concentration/pressure-time graph that includes a stressor",
+  "1185": "justify the shape of the graph using Le Châtelier's principle when given a concentration/pressure-time graph that includes a stressor",
+  "1218": "define Brønsted-Lowry acids and bases",
+  "1219": "identify strong and weak acids and bases, both inorganic and organic",
   "1737": "define kinetics of a chemical reaction as the rate by which the reactants are converted to products per unit time",
   "1738": "define the rate of appearance or disappearance of a substance as the change in its amount per unit time",
   "1739": "calculate rates of appearance and disappearance from concentration changes over time",
@@ -1460,7 +1487,12 @@
   "1771": "explain how the reaction order in a reactant relates a change in its concentration to the change in reaction rate",
   "1772": "determine how changing a reactant concentration affects reaction rate using reaction order",
   "1774": "explain that a zero-order reactant has no effect on rate when its concentration changes",
-  "1775": "explain that a first-order reactant causes rate to change by the same factor as concentration"
+  "1775": "explain that a first-order reactant causes rate to change by the same factor as concentration",
+  "1776": "explain that a second-order reactant causes rate to change by the square of the concentration factor",
+  "1777": "explain how the overall reaction order is the sum of the individual reaction order using each reactant",
+  "1778": "explain why the reaction orders (x and y) are experimentally determined and not necessarily equal to the stoichiometric coefficients (a and b)",
+  "1779": "the rate constant, k, is dependent on temperature and the units will vary according to the overall reaction order",
+  "1780": "identify the units of k for a zero-order rate law"
  },
  "cards": {
   "atomic_radius_across_period": "atomic_radius_across_period.m4a",
@@ -1470,5 +1502,5 @@
   "define_zeff_protons_shielding": "define_zeff_protons_shielding.m4a"
  },
  "_generated": "chem card-audio campaign",
- "_count": 729
+ "_count": 745
 }
