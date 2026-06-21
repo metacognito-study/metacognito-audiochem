@@ -810,6 +810,7 @@
   "1277": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1277.mp3",
   "1278": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1278.mp3",
   "1280": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1280.mp3",
+  "1281": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1281.mp3",
   "1369": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1369.mp3",
   "1370": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1370.mp3",
   "1371": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1371.mp3",
@@ -849,6 +850,8 @@
   "1420": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1420.mp3",
   "1421": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1421.mp3",
   "1422": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1422.mp3",
+  "1424": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1424.mp3",
+  "1425": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1425.mp3",
   "1488": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1488.mp3",
   "1489": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1489.mp3",
   "1490": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1490.mp3",
@@ -859,6 +862,7 @@
   "1496": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1496.mp3",
   "1497": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1497.mp3",
   "1499": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1499.mp3",
+  "1500": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1500.mp3",
   "1737": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1737.mp3",
   "1738": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1738.mp3",
   "1739": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1739.mp3",
@@ -951,7 +955,9 @@
   "1844": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1844.mp3",
   "1845": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1845.mp3",
   "1846": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1846.mp3",
-  "1847": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1847.mp3"
+  "1847": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1847.mp3",
+  "1848": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1848.mp3",
+  "1849": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1849.mp3"
  },
  "titles": {
   "613": "Atomic radius across a period",
@@ -1763,6 +1769,7 @@
   "1277": "calculate the initial concentration of a strong base given its pH or pOH",
   "1278": "write the dissociation reaction for a given salt (or ionic compound)",
   "1280": "explain how the cation and/or the anion could have acidic or basic properties",
+  "1281": "explain why a strong acid produces a weaker conjugate base than water",
   "1369": "explain the effect of the presence of a conjugate acid in the dissociation of a weak base using the shift in the equilibrium position",
   "1370": "calculate the pH of a solution containing a weak acid and a conjugate base using the Henderson-Hasselbalch equation",
   "1371": "calculate the pH of a solution containing a weak base and a conjugate acid using the Henderson-Hasselbalch equation",
@@ -1802,6 +1809,8 @@
   "1420": "identify distinguishing features of weak acid-strong base titration curves",
   "1421": "identify the major species at the initial stage of a weak acid-strong base titration",
   "1422": "identify the major species in the buffer region of a weak acid-strong base titration",
+  "1424": "identify major species after the equivalence point of a weak acid-strong base titration",
+  "1425": "identify the species that determines pH at each stage of a weak acid-strong base titration",
   "1488": "define solubility",
   "1489": "define unsaturated and saturated solution",
   "1490": "explain the meaning of the initial, change, and equilibrium rows in an ICE table",
@@ -1812,6 +1821,7 @@
   "1496": "compare solubilities of salts with the different cation-anion ratio by calculating solubility from Ksp",
   "1497": "calculate the solubility of a salt in pure water given the Ksp",
   "1499": "calculate the concentration of the component ions in a saturated solution, given the Ksp",
+  "1500": "calculate the Ksp of a salt given its solubility in pure water",
   "1737": "define kinetics of a chemical reaction as the rate by which the reactants are converted to products per unit time",
   "1738": "define the rate of appearance or disappearance of a substance as the change in its amount per unit time",
   "1739": "calculate rates of appearance and disappearance from concentration changes over time",
@@ -1904,7 +1914,9 @@
   "1844": "identify key features of multi-step energy diagrams",
   "1845": "identify the first elementary step as the first hump when given a multi-step energy diagram",
   "1846": "identify whether a multi-step mechanism is overall exothermic or endothermic when given its energy diagram",
-  "1847": "identify an exothermic mechanism when products are lower in energy than reactants"
+  "1847": "identify an exothermic mechanism when products are lower in energy than reactants",
+  "1848": "identify an endothermic mechanism when products are higher in energy than reactants",
+  "1849": "determine the number of elementary steps from the number of humps when given an energy diagram"
  },
  "cards": {
   "atomic_radius_across_period": "atomic_radius_across_period.m4a",
@@ -1914,5 +1926,5 @@
   "define_zeff_protons_shielding": "define_zeff_protons_shielding.m4a"
  },
  "_generated": "chem card-audio campaign",
- "_count": 951
+ "_count": 957
 }
