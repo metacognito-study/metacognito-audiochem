@@ -804,6 +804,8 @@
   "1270": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1270.mp3",
   "1271": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1271.mp3",
   "1272": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1272.mp3",
+  "1274": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1274.mp3",
+  "1275": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1275.mp3",
   "1369": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1369.mp3",
   "1370": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1370.mp3",
   "1371": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1371.mp3",
@@ -836,10 +838,15 @@
   "1411": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1411.mp3",
   "1412": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1412.mp3",
   "1414": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1414.mp3",
+  "1416": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1416.mp3",
+  "1417": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1417.mp3",
+  "1418": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1418.mp3",
   "1488": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1488.mp3",
   "1489": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1489.mp3",
   "1490": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1490.mp3",
   "1491": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1491.mp3",
+  "1492": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1492.mp3",
+  "1493": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1493.mp3",
   "1737": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1737.mp3",
   "1738": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1738.mp3",
   "1739": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1739.mp3",
@@ -924,7 +931,10 @@
   "1835": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1835.mp3",
   "1836": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1836.mp3",
   "1837": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1837.mp3",
-  "1838": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1838.mp3"
+  "1838": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1838.mp3",
+  "1840": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1840.mp3",
+  "1841": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1841.mp3",
+  "1842": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1842.mp3"
  },
  "titles": {
   "613": "Atomic radius across a period",
@@ -1730,6 +1740,8 @@
   "1270": "calculate the pH of a weak base given an initial concentration and Kb",
   "1271": "calculate the initial concentration of a weak base given its pH and Kb",
   "1272": "calculate the Kb given the % dissociation and initial concentration of base",
+  "1274": "calculate the pH of a strong acid given an initial concentration",
+  "1275": "calculate the initial concentration of a strong acid given its pH",
   "1369": "explain the effect of the presence of a conjugate acid in the dissociation of a weak base using the shift in the equilibrium position",
   "1370": "calculate the pH of a solution containing a weak acid and a conjugate base using the Henderson-Hasselbalch equation",
   "1371": "calculate the pH of a solution containing a weak base and a conjugate acid using the Henderson-Hasselbalch equation",
@@ -1762,10 +1774,15 @@
   "1411": "explain why the pH after the equivalence point is lower than expected when strong base is the titrant",
   "1412": "explain why the pH after the equivalence point is higher than expected when strong acid is the titrant",
   "1414": "describe what a weak acid-strong base titration curve shows",
+  "1416": "identify the titrant and analyte in a weak acid-strong base titration curve",
+  "1417": "identify pH values at key regions of a weak acid-strong base titration curve",
+  "1418": "explain why the equivalence-point pH is greater than 7 in a weak acid-strong base titration",
   "1488": "define solubility",
   "1489": "define unsaturated and saturated solution",
   "1490": "explain the meaning of the initial, change, and equilibrium rows in an ICE table",
   "1491": "explain how solubility is represented in the ICE table for a salt-equilibrium problem",
+  "1492": "explain how ion concentrations are represented in the ICE table for a saturated salt solution",
+  "1493": "write the solubility product constant expression for various salts with different cation-anion ratios",
   "1737": "define kinetics of a chemical reaction as the rate by which the reactants are converted to products per unit time",
   "1738": "define the rate of appearance or disappearance of a substance as the change in its amount per unit time",
   "1739": "calculate rates of appearance and disappearance from concentration changes over time",
@@ -1850,7 +1867,10 @@
   "1835": "use the pre-equilibrium approximation",
   "1836": "explain why reaction intermediates cannot appear in the final rate law",
   "1837": "use the pre-equilibrium approximation when the slow step contains an intermediate",
-  "1838": "use the pre-equilibrium approximation to eliminate intermediates from a mechanism-derived rate law"
+  "1838": "use the pre-equilibrium approximation to eliminate intermediates from a mechanism-derived rate law",
+  "1840": "draw energy diagrams for chemical reactions based on their mechanisms",
+  "1841": "draw and label single-step reaction energy diagrams",
+  "1842": "label ΔH for exothermic and endothermic reactions when given a single-step energy diagram"
  },
  "cards": {
   "atomic_radius_across_period": "atomic_radius_across_period.m4a",
@@ -1860,5 +1880,5 @@
   "define_zeff_protons_shielding": "define_zeff_protons_shielding.m4a"
  },
  "_generated": "chem card-audio campaign",
- "_count": 924
+ "_count": 934
 }
