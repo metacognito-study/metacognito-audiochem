@@ -650,6 +650,9 @@
   "1014": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1014.mp3",
   "1015": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1015.mp3",
   "1016": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1016.mp3",
+  "1017": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1017.mp3",
+  "1018": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1018.mp3",
+  "1019": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1019.mp3",
   "1068": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1068.mp3",
   "1069": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1069.mp3",
   "1070": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1070.mp3",
@@ -791,6 +794,9 @@
   "1260": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1260.mp3",
   "1261": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1261.mp3",
   "1262": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1262.mp3",
+  "1263": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1263.mp3",
+  "1264": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1264.mp3",
+  "1265": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1265.mp3",
   "1369": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1369.mp3",
   "1370": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1370.mp3",
   "1371": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1371.mp3",
@@ -814,6 +820,10 @@
   "1402": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1402.mp3",
   "1403": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1403.mp3",
   "1404": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1404.mp3",
+  "1405": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1405.mp3",
+  "1406": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1406.mp3",
+  "1407": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1407.mp3",
+  "1408": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1408.mp3",
   "1737": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1737.mp3",
   "1738": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1738.mp3",
   "1739": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1739.mp3",
@@ -890,7 +900,11 @@
   "1826": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1826.mp3",
   "1827": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1827.mp3",
   "1828": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1828.mp3",
-  "1829": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1829.mp3"
+  "1829": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1829.mp3",
+  "1831": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1831.mp3",
+  "1832": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1832.mp3",
+  "1833": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1833.mp3",
+  "1834": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1834.mp3"
  },
  "titles": {
   "613": "Atomic radius across a period",
@@ -1542,6 +1556,9 @@
   "1014": "use heating and cooling curves to identify the phases present in each stage",
   "1015": "use heating and cooling curves to identify the whether the stage represents a change in phase or a change in temperature",
   "1016": "use heating and cooling curves to identify the whether the stage represents a change in the average kinetic energies or the average potential energy of the molecules",
+  "1017": "use heating and cooling curves to identify the melting points and boiling points (heating curve)",
+  "1018": "use heating and cooling curves to identify the freezing points and the condensation points (cooling curve)",
+  "1019": "use heating and cooling curves to explain how the length of the horizontal lines in the curve represent the magnitude of the latent heat",
   "1068": "identify key solution terms",
   "1069": "explain the process of dissolution",
   "1070": "explain ΔH₁ in the solution-formation model as the endothermic separation of solute particles",
@@ -1683,6 +1700,9 @@
   "1260": "calculate the initial concentration of a weak acid given its pH and Ka",
   "1261": "calculate the Ka given the % dissociation and initial concentration of acid",
   "1262": "draw base dissociation reactions for a weak base",
+  "1263": "write the equilibrium expression for the base dissociation",
+  "1264": "explain what the value of the base dissociation constant, Kb represents",
+  "1265": "determine the relative strength of a base from the value of its base dissociation constant, Kb",
   "1369": "explain the effect of the presence of a conjugate acid in the dissociation of a weak base using the shift in the equilibrium position",
   "1370": "calculate the pH of a solution containing a weak acid and a conjugate base using the Henderson-Hasselbalch equation",
   "1371": "calculate the pH of a solution containing a weak base and a conjugate acid using the Henderson-Hasselbalch equation",
@@ -1706,6 +1726,10 @@
   "1402": "explain why the equivalence-point pH is 7 in a strong acid-strong base titration",
   "1403": "calculate pH at different points on a strong acid-strong base titration curve",
   "1404": "identify distinguishing features of strong acid-strong base titration curves",
+  "1405": "identify the major species at the initial stage of a strong acid-strong base titration",
+  "1406": "identify the major species between the initial point and the equivalence point of a strong acid-strong base titration",
+  "1407": "identify the major species at the equivalence point of a strong acid-strong base titration",
+  "1408": "identify major species after the equivalence point of a strong acid-strong base titration",
   "1737": "define kinetics of a chemical reaction as the rate by which the reactants are converted to products per unit time",
   "1738": "define the rate of appearance or disappearance of a substance as the change in its amount per unit time",
   "1739": "calculate rates of appearance and disappearance from concentration changes over time",
@@ -1782,7 +1806,11 @@
   "1826": "a reaction intermediate is a chemical species that is formed in one elementary step and consumed in a subsequent step",
   "1827": "explain that chemical bonds require energy to break and that activated complexes form before products",
   "1828": "the activated complex has a very low concentration during a reaction",
-  "1829": "identify the transition state as an unstable arrangement with bonds partly breaking and forming"
+  "1829": "identify the transition state as an unstable arrangement with bonds partly breaking and forming",
+  "1831": "a catalyst is consumed in one step of a mechanism and regenerated unchanged in a later step",
+  "1832": "evaluate whether a proposed reaction mechanism is consistent with the overall reaction and rate law",
+  "1833": "check whether the elementary steps add up to the overall reaction",
+  "1834": "check whether the experimental rate law matches the rate law of the slow step"
  },
  "cards": {
   "atomic_radius_across_period": "atomic_radius_across_period.m4a",
@@ -1792,5 +1820,5 @@
   "define_zeff_protons_shielding": "define_zeff_protons_shielding.m4a"
  },
  "_generated": "chem card-audio campaign",
- "_count": 890
+ "_count": 904
 }
