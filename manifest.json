@@ -821,6 +821,9 @@
   "1289": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1289.mp3",
   "1290": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1290.mp3",
   "1291": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1291.mp3",
+  "1292": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1292.mp3",
+  "1293": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1293.mp3",
+  "1294": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1294.mp3",
   "1369": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1369.mp3",
   "1370": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1370.mp3",
   "1371": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1371.mp3",
@@ -874,6 +877,10 @@
   "1437": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1437.mp3",
   "1438": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1438.mp3",
   "1439": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1439.mp3",
+  "1440": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1440.mp3",
+  "1441": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1441.mp3",
+  "1442": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1442.mp3",
+  "1443": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1443.mp3",
   "1488": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1488.mp3",
   "1489": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1489.mp3",
   "1490": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1490.mp3",
@@ -895,6 +902,9 @@
   "1511": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1511.mp3",
   "1512": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1512.mp3",
   "1513": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1513.mp3",
+  "1514": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1514.mp3",
+  "1515": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1515.mp3",
+  "1517": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1517.mp3",
   "1737": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1737.mp3",
   "1738": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1738.mp3",
   "1739": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1739.mp3",
@@ -1001,7 +1011,11 @@
   "1861": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1861.mp3",
   "1862": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1862.mp3",
   "1863": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1863.mp3",
-  "1865": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1865.mp3"
+  "1865": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1865.mp3",
+  "1866": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1866.mp3",
+  "1867": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1867.mp3",
+  "1868": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1868.mp3",
+  "1869": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1869.mp3"
  },
  "titles": {
   "613": "Atomic radius across a period",
@@ -1824,6 +1838,9 @@
   "1289": "write the hydrolysis reaction of a conjugate acid",
   "1290": "predict whether a salt's aqueous solution is neutral, acidic, or basic, based on whether its cation and/or anion is a stronger acid or base than water",
   "1291": "predict salt-solution pH when the salt contains a cation that hydrolyzes to make the salt solution acidic",
+  "1292": "predict salt-solution pH when the salt contains an anion that hydrolyzes to make the salt solution basic",
+  "1293": "predict salt-solution pH when the salt where both cation and anion hydrolyze",
+  "1294": "calculate the pH of a salt with a conjugate base that hydrolyzes in water",
   "1369": "explain the effect of the presence of a conjugate acid in the dissociation of a weak base using the shift in the equilibrium position",
   "1370": "calculate the pH of a solution containing a weak acid and a conjugate base using the Henderson-Hasselbalch equation",
   "1371": "calculate the pH of a solution containing a weak base and a conjugate acid using the Henderson-Hasselbalch equation",
@@ -1877,6 +1894,10 @@
   "1437": "identify the major species at the initial stage of a weak base-strong acid titration",
   "1438": "identify the major species in the buffer region of a weak base-strong acid titration",
   "1439": "identify the major species at the equivalence point of a weak base-strong acid titration",
+  "1440": "identify major species after the equivalence point of a weak base-strong acid titration",
+  "1441": "identify the species that determines pH at each stage of a weak base-strong acid titration",
+  "1442": "draw particle diagrams for each stage of a weak base-strong acid titration",
+  "1443": "explain how weak base/conjugate acid ratios in the buffer region relate to pH and pKa",
   "1488": "define solubility",
   "1489": "define unsaturated and saturated solution",
   "1490": "explain the meaning of the initial, change, and equilibrium rows in an ICE table",
@@ -1898,6 +1919,9 @@
   "1511": "calculate the Qsp from given initial concentrations of reacting ions",
   "1512": "explain what Qsp < Ksp, Qsp = Ksp, and Qsp > Ksp each mean for a solution",
   "1513": "calculate the amount of precipitate formed, if any",
+  "1514": "calculate the concentration of each ion in the solution (including spectator ions) when equilibrium is restored after precipitation",
+  "1515": "draw a concentration diagram and describe how each ion's concentration changes as a salt dissolves to saturation in pure water",
+  "1517": "draw a concentration diagram showing how each ion's concentration changes as a salt dissolves to saturation in a common-ion solution",
   "1737": "define kinetics of a chemical reaction as the rate by which the reactants are converted to products per unit time",
   "1738": "define the rate of appearance or disappearance of a substance as the change in its amount per unit time",
   "1739": "calculate rates of appearance and disappearance from concentration changes over time",
@@ -2004,7 +2028,11 @@
   "1861": "catalysts provide a different reaction pathway with lower activation energy",
   "1862": "explain that catalysts increase reaction rate without changing the equilibrium position",
   "1863": "identify types of catalysts as homogeneous catalysts, heterogeneous catalysts and enzymes",
-  "1865": "identify homogeneous catalysts as catalysts in the same phase as the reactants"
+  "1865": "identify homogeneous catalysts as catalysts in the same phase as the reactants",
+  "1866": "identify heterogeneous catalysts as catalysts in a different phase from the reactants",
+  "1867": "gases can react on a solid heterogeneous catalyst, and adsorption may be the rate-determining step",
+  "1868": "define enzymes as biological catalysts",
+  "1869": "enzymes have active sites where substrates bind"
  },
  "cards": {
   "atomic_radius_across_period": "atomic_radius_across_period.m4a",
@@ -2014,5 +2042,5 @@
   "define_zeff_protons_shielding": "define_zeff_protons_shielding.m4a"
  },
  "_generated": "chem card-audio campaign",
- "_count": 1001
+ "_count": 1015
 }
