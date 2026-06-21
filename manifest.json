@@ -635,6 +635,9 @@
   "996": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/996.mp3",
   "997": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/997.mp3",
   "998": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/998.mp3",
+  "999": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/999.mp3",
+  "1000": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1000.mp3",
+  "1001": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1001.mp3",
   "1068": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1068.mp3",
   "1069": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1069.mp3",
   "1070": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1070.mp3",
@@ -761,11 +764,16 @@
   "1243": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1243.mp3",
   "1244": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1244.mp3",
   "1245": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1245.mp3",
+  "1246": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1246.mp3",
+  "1247": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1247.mp3",
   "1369": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1369.mp3",
   "1370": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1370.mp3",
   "1371": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1371.mp3",
   "1378": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1378.mp3",
   "1379": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1379.mp3",
+  "1380": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1380.mp3",
+  "1381": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1381.mp3",
+  "1382": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1382.mp3",
   "1737": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1737.mp3",
   "1738": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1738.mp3",
   "1739": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1739.mp3",
@@ -823,7 +831,10 @@
   "1804": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1804.mp3",
   "1805": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1805.mp3",
   "1806": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1806.mp3",
-  "1807": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1807.mp3"
+  "1807": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1807.mp3",
+  "1808": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1808.mp3",
+  "1810": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1810.mp3",
+  "1811": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1811.mp3"
  },
  "titles": {
   "613": "Atomic radius across a period",
@@ -1460,6 +1471,9 @@
   "996": "justify how temperature affects the vapor pressure of a liquid when given an energy-distribution diagram",
   "997": "explain the difference between evaporation and boiling",
   "998": "explain how boiling occurs",
+  "999": "describe what a vapor-pressure vs. temperature curve shows",
+  "1000": "use vapor-pressure curves to determine the vapor pressure of a substance at a particular temperature",
+  "1001": "use vapor-pressure curves to determine the boiling temperature of a substance at a particular atmospheric pressure",
   "1068": "identify key solution terms",
   "1069": "explain the process of dissolution",
   "1070": "explain ΔH₁ in the solution-formation model as the endothermic separation of solute particles",
@@ -1586,11 +1600,16 @@
   "1243": "identify a solution as acidic, basic, or neutral based on the value of the pH at 25°C",
   "1244": "calculate the pH of a solution given the pOH, [H₃O⁺], or [OH⁻]",
   "1245": "calculate the pOH of a solution given the pH, [H₃O⁺], or [OH⁻]",
+  "1246": "calculate the [H₃O⁺] of a solution given the pOH, pH, or [OH⁻]",
+  "1247": "calculate the [OH⁻] of a solution given the pH, pOH, or [H₃O⁺]",
   "1369": "explain the effect of the presence of a conjugate acid in the dissociation of a weak base using the shift in the equilibrium position",
   "1370": "calculate the pH of a solution containing a weak acid and a conjugate base using the Henderson-Hasselbalch equation",
   "1371": "calculate the pH of a solution containing a weak base and a conjugate acid using the Henderson-Hasselbalch equation",
   "1378": "write net ionic equations for the buffer system",
   "1379": "write the buffer system equilibrium equation",
+  "1380": "write the stoichiometric equation when a strong acid is added to the buffer system",
+  "1381": "write the stoichiometric equation when a strong base is added to the buffer system",
+  "1382": "calculate the pH of a given buffer system using the Henderson-Hasselbalch equation",
   "1737": "define kinetics of a chemical reaction as the rate by which the reactants are converted to products per unit time",
   "1738": "define the rate of appearance or disappearance of a substance as the change in its amount per unit time",
   "1739": "calculate rates of appearance and disappearance from concentration changes over time",
@@ -1648,7 +1667,10 @@
   "1804": "calculate the amount of reactant consumed after time t using integrated rate laws",
   "1805": "calculate the amount of product formed using stoichiometry and reactant consumed",
   "1806": "determine rate constants with appropriate units using integrated rate laws",
-  "1807": "determine rate law from tabulated experimental data"
+  "1807": "determine rate law from tabulated experimental data",
+  "1808": "decide when to use the method of initial rates or integrated rate laws to determine reaction order",
+  "1810": "determine rate law based on graphs",
+  "1811": "identify a zero-order reaction from a linear [A] vs. time plot with negative slope"
  },
  "cards": {
   "atomic_radius_across_period": "atomic_radius_across_period.m4a",
@@ -1658,5 +1680,5 @@
   "define_zeff_protons_shielding": "define_zeff_protons_shielding.m4a"
  },
  "_generated": "chem card-audio campaign",
- "_count": 823
+ "_count": 834
 }
