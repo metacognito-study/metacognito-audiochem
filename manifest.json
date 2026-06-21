@@ -595,6 +595,9 @@
   "950": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/950.mp3",
   "951": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/951.mp3",
   "953": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/953.mp3",
+  "954": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/954.mp3",
+  "955": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/955.mp3",
+  "956": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/956.mp3",
   "1068": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1068.mp3",
   "1069": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1069.mp3",
   "1070": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1070.mp3",
@@ -612,6 +615,9 @@
   "1084": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1084.mp3",
   "1085": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1085.mp3",
   "1086": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1086.mp3",
+  "1088": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1088.mp3",
+  "1089": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1089.mp3",
+  "1090": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1090.mp3",
   "1119": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1119.mp3",
   "1120": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1120.mp3",
   "1121": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1121.mp3",
@@ -650,6 +656,10 @@
   "1161": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1161.mp3",
   "1162": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1162.mp3",
   "1163": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1163.mp3",
+  "1164": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1164.mp3",
+  "1165": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1165.mp3",
+  "1166": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1166.mp3",
+  "1167": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1167.mp3",
   "1737": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1737.mp3",
   "1738": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1738.mp3",
   "1739": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1739.mp3",
@@ -659,7 +669,10 @@
   "1747": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1747.mp3",
   "1748": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1748.mp3",
   "1750": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1750.mp3",
-  "1751": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1751.mp3"
+  "1751": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1751.mp3",
+  "1752": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1752.mp3",
+  "1754": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1754.mp3",
+  "1755": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1755.mp3"
  },
  "titles": {
   "613": "Atomic radius across a period",
@@ -1256,6 +1269,9 @@
   "950": "draw a diagram showing the ions that made up ionic solids",
   "951": "explain the bonding in ionic solids",
   "953": "compare ionic-bonding strength using lattice energies for the same set of ionic charges",
+  "954": "compare ionic-bonding strength using lattice energies for different set of ionic charges between ionic compounds",
+  "955": "explain the conductivity of ionic compounds in the molten and aqueous state and its nonconductivity in the solid state using the presence of free ions",
+  "956": "explain why ionic compounds are hard but brittle using the organization of ions in the crystal lattice and the force of attraction between ions",
   "1068": "identify key solution terms",
   "1069": "explain the process of dissolution",
   "1070": "explain ΔH₁ in the solution-formation model as the endothermic separation of solute particles",
@@ -1273,6 +1289,9 @@
   "1084": "draw particle diagrams that show the interaction between solute and solvent",
   "1085": "justify the relative strengths of particle interaction in solution based on Coulomb's law",
   "1086": "explain the effect of similarity in polarity on the solubility",
+  "1088": "explain the effect of temperature on the solubility of a gas in a liquid",
+  "1089": "explain the effect of temperature on the solubility of a solid in a liquid for both exothermic and endothermic dissolutions",
+  "1090": "explain the difference between unsaturated, saturated, and supersaturated solutions and each other",
   "1119": "explain the establishment of the state of chemical equilibrium using the forward and backward rates",
   "1120": "explain the establishment of the state of chemical equilibrium using the concentration (or partial pressures) of reactants and products",
   "1121": "explain the establishment of chemical equilibrium when given a concentration-time graph (or pressure-time graph) for a reaction",
@@ -1311,6 +1330,10 @@
   "1161": "draw the concentration-time graph that matches given initial and/or equilibrium concentrations of reactants and products",
   "1162": "describe what a pressure-time graph shows for both reactants and products",
   "1163": "identify the time at which equilibrium is reached when given a pressure-time graph for both reactants and products",
+  "1164": "identify the equilibrium partial pressures of reactants and products when given a pressure-time graph for both reactants and products",
+  "1165": "calculate the equilibrium constant, K, when given a pressure-time graph for both reactants and products",
+  "1166": "determine the coefficients of a balanced reaction when given a pressure-time graph for both reactants and products",
+  "1167": "compare the relative rates of the forward and backward reactions at various points when given a pressure-time graph for both reactants and products",
   "1737": "define kinetics of a chemical reaction as the rate by which the reactants are converted to products per unit time",
   "1738": "define the rate of appearance or disappearance of a substance as the change in its amount per unit time",
   "1739": "calculate rates of appearance and disappearance from concentration changes over time",
@@ -1320,7 +1343,10 @@
   "1747": "compare instantaneous reaction rates from tangent slopes on concentration-time graphs",
   "1748": "explain how reaction rate changes as reactant concentration changes over time",
   "1750": "determine equilibrium conditions from rate information",
-  "1751": "compare reactant-disappearance and product-appearance rates when given a concentration-time graph"
+  "1751": "compare reactant-disappearance and product-appearance rates when given a concentration-time graph",
+  "1752": "determine overall reaction rate from changes in concentration while accounting for stoichiometric coefficients",
+  "1754": "explain the conditions a collision must meet for a reaction to occur (collision theory)",
+  "1755": "explain how collision frequency affects whether a reaction occurs"
  },
  "cards": {
   "atomic_radius_across_period": "atomic_radius_across_period.m4a",
@@ -1330,5 +1356,5 @@
   "define_zeff_protons_shielding": "define_zeff_protons_shielding.m4a"
  },
  "_generated": "chem card-audio campaign",
- "_count": 659
+ "_count": 672
 }
