@@ -826,6 +826,9 @@
   "1294": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1294.mp3",
   "1295": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1295.mp3",
   "1297": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1297.mp3",
+  "1298": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1298.mp3",
+  "1299": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1299.mp3",
+  "1300": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1300.mp3",
   "1369": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1369.mp3",
   "1370": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1370.mp3",
   "1371": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1371.mp3",
@@ -885,6 +888,8 @@
   "1443": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1443.mp3",
   "1444": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1444.mp3",
   "1446": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1446.mp3",
+  "1447": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1447.mp3",
+  "1449": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1449.mp3",
   "1488": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1488.mp3",
   "1489": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1489.mp3",
   "1490": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1490.mp3",
@@ -911,6 +916,8 @@
   "1517": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1517.mp3",
   "1518": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1518.mp3",
   "1519": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1519.mp3",
+  "1520": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1520.mp3",
+  "1521": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1521.mp3",
   "1737": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1737.mp3",
   "1738": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1738.mp3",
   "1739": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1739.mp3",
@@ -1023,7 +1030,9 @@
   "1868": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1868.mp3",
   "1869": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1869.mp3",
   "1870": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1870.mp3",
-  "1871": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1871.mp3"
+  "1871": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1871.mp3",
+  "1872": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1872.mp3",
+  "1873": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1873.mp3"
  },
  "titles": {
   "613": "Atomic radius across a period",
@@ -1851,6 +1860,9 @@
   "1294": "calculate the pH of a salt with a conjugate base that hydrolyzes in water",
   "1295": "calculate the pH of a salt with a conjugate acid that hydrolyzes in water",
   "1297": "explain why the strength of an acid can be explained in two ways",
+  "1298": "explain acid strength using the weaker the bond where the acidic hydrogen is attached, the easier it is donated, the stronger the acid",
+  "1299": "explain acid strength using the more stable the conjugate base of the parent acid, the stronger the parent acid",
+  "1300": "explain why a weak bond with the acidic hydrogen makes the substance more acidic",
   "1369": "explain the effect of the presence of a conjugate acid in the dissociation of a weak base using the shift in the equilibrium position",
   "1370": "calculate the pH of a solution containing a weak acid and a conjugate base using the Henderson-Hasselbalch equation",
   "1371": "calculate the pH of a solution containing a weak base and a conjugate acid using the Henderson-Hasselbalch equation",
@@ -1910,6 +1922,8 @@
   "1443": "explain how weak base/conjugate acid ratios in the buffer region relate to pH and pKa",
   "1444": "determine Ka for a conjugate acid when given the half-equivalence point of a weak base titration curve",
   "1446": "determine Kb for a weak base from the Ka of its conjugate acid",
+  "1447": "compare multiple titration curves with the same analyte volume and concentration",
+  "1449": "explain why initial pH differs between strong-acid and weak-acid analytes",
   "1488": "define solubility",
   "1489": "define unsaturated and saturated solution",
   "1490": "explain the meaning of the initial, change, and equilibrium rows in an ICE table",
@@ -1936,6 +1950,8 @@
   "1517": "draw a concentration diagram showing how each ion's concentration changes as a salt dissolves to saturation in a common-ion solution",
   "1518": "draw a concentration diagram and describe how each ion's concentration changes when a common-ion salt is added to a saturated solution",
   "1519": "draw a concentration diagram and describe how each ion's concentration changes when solvent evaporates from a saturated solution",
+  "1520": "draw a concentration diagram and describe how each ion's concentration changes when water is added to a saturated solution with excess solid present",
+  "1521": "draw an ion-product plot and identify the regions where Qsp < Ksp, Qsp = Ksp, and Qsp > Ksp",
   "1737": "define kinetics of a chemical reaction as the rate by which the reactants are converted to products per unit time",
   "1738": "define the rate of appearance or disappearance of a substance as the change in its amount per unit time",
   "1739": "calculate rates of appearance and disappearance from concentration changes over time",
@@ -2048,7 +2064,9 @@
   "1868": "define enzymes as biological catalysts",
   "1869": "enzymes have active sites where substrates bind",
   "1870": "explain how catalysts can form an intermediate species through a temporary covalent bond with a reactant",
-  "1871": "explain how proton transfer creates a new reaction pathway in acid-base catalysis"
+  "1871": "explain how proton transfer creates a new reaction pathway in acid-base catalysis",
+  "1872": "explain that catalysts can create intermediate species and elementary steps not present in the uncatalyzed pathway",
+  "1873": "draw energy distribution diagrams for catalyzed and uncatalyzed reactions"
  },
  "cards": {
   "atomic_radius_across_period": "atomic_radius_across_period.m4a",
@@ -2058,5 +2076,5 @@
   "define_zeff_protons_shielding": "define_zeff_protons_shielding.m4a"
  },
  "_generated": "chem card-audio campaign",
- "_count": 1023
+ "_count": 1032
 }
