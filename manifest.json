@@ -819,6 +819,8 @@
   "1287": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1287.mp3",
   "1288": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1288.mp3",
   "1289": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1289.mp3",
+  "1290": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1290.mp3",
+  "1291": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1291.mp3",
   "1369": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1369.mp3",
   "1370": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1370.mp3",
   "1371": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1371.mp3",
@@ -869,6 +871,9 @@
   "1434": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1434.mp3",
   "1435": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1435.mp3",
   "1436": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1436.mp3",
+  "1437": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1437.mp3",
+  "1438": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1438.mp3",
+  "1439": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1439.mp3",
   "1488": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1488.mp3",
   "1489": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1489.mp3",
   "1490": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1490.mp3",
@@ -888,6 +893,8 @@
   "1508": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1508.mp3",
   "1510": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1510.mp3",
   "1511": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1511.mp3",
+  "1512": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1512.mp3",
+  "1513": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1513.mp3",
   "1737": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1737.mp3",
   "1738": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1738.mp3",
   "1739": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1739.mp3",
@@ -991,7 +998,10 @@
   "1856": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1856.mp3",
   "1858": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1858.mp3",
   "1860": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1860.mp3",
-  "1861": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1861.mp3"
+  "1861": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1861.mp3",
+  "1862": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1862.mp3",
+  "1863": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1863.mp3",
+  "1865": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1865.mp3"
  },
  "titles": {
   "613": "Atomic radius across a period",
@@ -1812,6 +1822,8 @@
   "1287": "calculate the Kb of a conjugate base from the Ka of the parent acid",
   "1288": "write the hydrolysis reaction of a conjugate base",
   "1289": "write the hydrolysis reaction of a conjugate acid",
+  "1290": "predict whether a salt's aqueous solution is neutral, acidic, or basic, based on whether its cation and/or anion is a stronger acid or base than water",
+  "1291": "predict salt-solution pH when the salt contains a cation that hydrolyzes to make the salt solution acidic",
   "1369": "explain the effect of the presence of a conjugate acid in the dissociation of a weak base using the shift in the equilibrium position",
   "1370": "calculate the pH of a solution containing a weak acid and a conjugate base using the Henderson-Hasselbalch equation",
   "1371": "calculate the pH of a solution containing a weak base and a conjugate acid using the Henderson-Hasselbalch equation",
@@ -1862,6 +1874,9 @@
   "1434": "explain why the equivalence-point pH is less than 7 in a weak base-strong acid titration",
   "1435": "calculate pH at different points on a weak base-strong acid titration curve",
   "1436": "identify distinguishing features of weak base-strong acid titration curves",
+  "1437": "identify the major species at the initial stage of a weak base-strong acid titration",
+  "1438": "identify the major species in the buffer region of a weak base-strong acid titration",
+  "1439": "identify the major species at the equivalence point of a weak base-strong acid titration",
   "1488": "define solubility",
   "1489": "define unsaturated and saturated solution",
   "1490": "explain the meaning of the initial, change, and equilibrium rows in an ICE table",
@@ -1881,6 +1896,8 @@
   "1508": "write net ionic equations for precipitation reactions",
   "1510": "calculate the new initial concentrations when two solutions are combined",
   "1511": "calculate the Qsp from given initial concentrations of reacting ions",
+  "1512": "explain what Qsp < Ksp, Qsp = Ksp, and Qsp > Ksp each mean for a solution",
+  "1513": "calculate the amount of precipitate formed, if any",
   "1737": "define kinetics of a chemical reaction as the rate by which the reactants are converted to products per unit time",
   "1738": "define the rate of appearance or disappearance of a substance as the change in its amount per unit time",
   "1739": "calculate rates of appearance and disappearance from concentration changes over time",
@@ -1984,7 +2001,10 @@
   "1856": "compare rate constants at low and high temperature using ln k vs. 1/T plots",
   "1858": "draw an energy-distribution (Maxwell-Boltzmann) diagram and explain how raising the temperature changes the reaction rate",
   "1860": "catalysts are added to a reaction and regenerated unchanged",
-  "1861": "catalysts provide a different reaction pathway with lower activation energy"
+  "1861": "catalysts provide a different reaction pathway with lower activation energy",
+  "1862": "explain that catalysts increase reaction rate without changing the equilibrium position",
+  "1863": "identify types of catalysts as homogeneous catalysts, heterogeneous catalysts and enzymes",
+  "1865": "identify homogeneous catalysts as catalysts in the same phase as the reactants"
  },
  "cards": {
   "atomic_radius_across_period": "atomic_radius_across_period.m4a",
@@ -1994,5 +2014,5 @@
   "define_zeff_protons_shielding": "define_zeff_protons_shielding.m4a"
  },
  "_generated": "chem card-audio campaign",
- "_count": 991
+ "_count": 1001
 }
