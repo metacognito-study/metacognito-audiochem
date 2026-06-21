@@ -609,6 +609,9 @@
   "966": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/966.mp3",
   "967": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/967.mp3",
   "968": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/968.mp3",
+  "969": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/969.mp3",
+  "970": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/970.mp3",
+  "971": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/971.mp3",
   "1068": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1068.mp3",
   "1069": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1069.mp3",
   "1070": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1070.mp3",
@@ -641,6 +644,8 @@
   "1103": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1103.mp3",
   "1104": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1104.mp3",
   "1105": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1105.mp3",
+  "1106": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1106.mp3",
+  "1107": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1107.mp3",
   "1119": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1119.mp3",
   "1120": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1120.mp3",
   "1121": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1121.mp3",
@@ -692,6 +697,9 @@
   "1175": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1175.mp3",
   "1176": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1176.mp3",
   "1177": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1177.mp3",
+  "1178": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1178.mp3",
+  "1179": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1179.mp3",
+  "1181": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1181.mp3",
   "1737": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1737.mp3",
   "1738": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1738.mp3",
   "1739": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1739.mp3",
@@ -718,7 +726,10 @@
   "1768": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1768.mp3",
   "1769": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1769.mp3",
   "1770": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1770.mp3",
-  "1771": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1771.mp3"
+  "1771": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1771.mp3",
+  "1772": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1772.mp3",
+  "1774": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1774.mp3",
+  "1775": "https://cdn.jsdelivr.net/gh/metacognito-study/metacognito-audiochem@main/mp3/1775.mp3"
  },
  "titles": {
   "613": "Atomic radius across a period",
@@ -1329,6 +1340,9 @@
   "966": "explain common examples of metallic solids",
   "967": "define alloys",
   "968": "describe substitutional alloys using relative atom sizes",
+  "969": "describe interstitial alloys using relative atom sizes",
+  "970": "draw particle diagrams for both substitutional and interstitial alloys showing the relative sizes of atoms that make them up",
+  "971": "compare properties of substitutional alloys using density, strength, and ductility",
   "1068": "identify key solution terms",
   "1069": "explain the process of dissolution",
   "1070": "explain ΔH₁ in the solution-formation model as the endothermic separation of solute particles",
@@ -1361,6 +1375,8 @@
   "1103": "describe what a chromatogram shows",
   "1104": "use a chromatogram, determine to the number of components the mixture has",
   "1105": "use a chromatogram, determine to the component that is most attracted to the mobile phase",
+  "1106": "use a chromatogram, determine to the component that is most attracted to the stationary phase",
+  "1107": "use a chromatogram, determine to the adjustment that must be made to a mixture of solvents to affect the separation of the components",
   "1119": "explain the establishment of the state of chemical equilibrium using the forward and backward rates",
   "1120": "explain the establishment of the state of chemical equilibrium using the concentration (or partial pressures) of reactants and products",
   "1121": "explain the establishment of chemical equilibrium when given a concentration-time graph (or pressure-time graph) for a reaction",
@@ -1412,6 +1428,9 @@
   "1175": "justify the direction of a reaction shift after a stress using Le Châtelier's principle and the relative values of Q and K",
   "1176": "justify equilibrium shifts when increase or decrease the concentration/partial pressure of a reactant or product",
   "1177": "justify equilibrium shifts when increase or decrease the partial pressures of reactants and products by decreasing or increasing the container volume",
+  "1178": "justify equilibrium shifts when increase or decrease the temperature of an exothermic or an endothermic reaction",
+  "1179": "justify equilibrium shifts when an inert gas is introduced in the gaseous mixture at equilibrium",
+  "1181": "justify equilibrium shifts when the volume of the aqueous solution is changed by diluting a solution",
   "1737": "define kinetics of a chemical reaction as the rate by which the reactants are converted to products per unit time",
   "1738": "define the rate of appearance or disappearance of a substance as the change in its amount per unit time",
   "1739": "calculate rates of appearance and disappearance from concentration changes over time",
@@ -1438,7 +1457,10 @@
   "1768": "explain how surface area affects the reaction rate",
   "1769": "explain how a catalyst affects the reaction rate",
   "1770": "define the rate law as the expression linking reaction rate to reactant concentrations",
-  "1771": "explain how the reaction order in a reactant relates a change in its concentration to the change in reaction rate"
+  "1771": "explain how the reaction order in a reactant relates a change in its concentration to the change in reaction rate",
+  "1772": "determine how changing a reactant concentration affects reaction rate using reaction order",
+  "1774": "explain that a zero-order reactant has no effect on rate when its concentration changes",
+  "1775": "explain that a first-order reactant causes rate to change by the same factor as concentration"
  },
  "cards": {
   "atomic_radius_across_period": "atomic_radius_across_period.m4a",
@@ -1448,5 +1470,5 @@
   "define_zeff_protons_shielding": "define_zeff_protons_shielding.m4a"
  },
  "_generated": "chem card-audio campaign",
- "_count": 718
+ "_count": 729
 }
